@@ -1,0 +1,8 @@
+{
+  "description": "Aegis Core v5.0: Advanced security command center featuring a Root Terminal, Sandbox Containment Cell, Shizuku system-level bridge, and hardware-level MAC randomization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Aegis Phantom - Root Overwatch"
+}
